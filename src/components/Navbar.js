@@ -27,6 +27,8 @@ const callsToAction = [
   { name: 'Contact sales', href: '#', icon: PhoneIcon },
 ]
 
+// This is navbar
+
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }

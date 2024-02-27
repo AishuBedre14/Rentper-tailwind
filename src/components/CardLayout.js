@@ -20,13 +20,13 @@ function CardLayout() {
                     <img src="https://images.unsplash.com/photo-1596783074918-c84cb06531ca?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="..." />
                 </Carousel>
                 
-                {/* <Carousel>
+                <Carousel>
                     <img src="https://media.istockphoto.com/id/859097796/photo/film-camera-in-the-studio.jpg?s=2048x2048&w=is&k=20&c=neGz1WpZNygdmapDhIWyzyEmiFteh6cWETfbz9XlVHY=" alt="..." />
                     <img src="https://images.unsplash.com/photo-1594552072238-b8a33785b261?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="..." />
                     <img src="https://images.unsplash.com/photo-1596783074918-c84cb06531ca?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="..." />
                     <img src="https://images.unsplash.com/photo-1596783074918-c84cb06531ca?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="..." />
                     <img src="https://images.unsplash.com/photo-1596783074918-c84cb06531ca?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="..." />
-                </Carousel> */}
+                </Carousel>
             </div>
         </div>
     )
